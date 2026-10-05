@@ -1,0 +1,9 @@
+name: belajar_import
+description: Latihan Pertemuan 6 - Imports
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+dependencies:
+  intl: ^0.20.3
+  uuid: ^4.6.0

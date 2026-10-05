@@ -1,0 +1,7 @@
+# Dart / Flutter
+.dart_tool/
+build/
+.packages
+
+# Editor
+.vscode/
